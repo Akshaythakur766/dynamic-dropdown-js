@@ -1,0 +1,26 @@
+{
+  "name": "dynamic-dropdown-js",
+  "version": "0.0.1",
+  "description": "Dynamic Dropdown is static as well as dynamic passable dropdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshaythakur766/dynamic-dropdown-js.git"
+  },
+  "keywords": [
+    "npm",
+    "dropdown",
+    "dynamic",
+    "js",
+    "menu"
+  ],
+  "author": "Akshay thakur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akshaythakur766/dynamic-dropdown-js/issues"
+  },
+  "homepage": "https://github.com/Akshaythakur766/dynamic-dropdown-js#readme"
+}
